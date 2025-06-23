@@ -34,8 +34,8 @@ CUSTOM_DOMAIN_FILE = INSTALL_DIR / "custom_domain.txt" # 存储最终使用的�
 USER_NAME = "jianxianapp"         # 用户名
 UUID = "09d02bbd-0ab1-4c19-8ded-7bb285f18bcc"                     # UUID，留空则自动生成
 PORT = 26553                   # Vmess端口，留空或0则自动生成
-DOMAIN = "googlecloud.jianxian.nyc.mn"                   # 域名，留空则自动获取
-CF_TOKEN = "eyJhIjoiOTVmMTZlNGFmMmM3YjNkOGY3M2IzN2VhZWZhZDNkZWMiLCJ0IjoiOGExOWM1Y2QtOTNjYi00YmFkLTk1YjktNjQwN2ZhZDBlNzg0IiwicyI6Ik56Tm1OR1JpWmpBdFptUXdZeTAwT1RRMUxXRTVZakl0TnpNMU1ETTFPV1ZpTTJVeiJ9"                 # Cloudflare Token，留空则用Quick Tunnel
+DOMAIN = "google.apkk.cloudns.org"                   # 域名，留空则自动获取
+CF_TOKEN = "eyJhIjoiZTNlYmU5NDY1NjJjOGZjMjBmYzg4Y2U5MGJlODRjYTMiLCJ0IjoiMTFlNTg2ZGYtN2ViNi00MTE5LWFlNDctZGZiNWIwNDY4YjY3IiwicyI6IlpHRmhOemhsWVRZdFl6Z3haUzAwWlRNNExXSTBOV0V0TTJWallUWTNaVEl5WWpreiJ9"                 # Cloudflare Token，留空则用Quick Tunnel
 # =========================================
 
 # 添加命令行参数解析
