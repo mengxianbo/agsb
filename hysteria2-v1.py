@@ -600,7 +600,7 @@ def main():
         show_help()
     elif args.command == 'install':
         # 默认配置
-        port = args.port if args.port else 443
+        port = args.port if args.port else 12596
         password = args.password if args.password else "123qwe!@#QWE"
         
         # 获取IP地址
