@@ -21,7 +21,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # 定义默认URL
-DEFAULT_URL = "https://purple-gorgeous-keeper.glitch.me/"
+DEFAULT_URL = "https://officetv.glitch.me"
 URL = DEFAULT_URL
 
 # 创建cookies目录
