@@ -32,10 +32,10 @@ CUSTOM_DOMAIN_FILE = INSTALL_DIR / "custom_domain.txt" # 存储最终使用的�
 
 # ====== 全局可配置参数（可直接在此处修改） ======
 USER_NAME = "jianxianapp"         # 用户名
-UUID = "ac99425a-c338-423f-88a4-6d9f339d0f4d"                     # UUID，留空则自动生成
-PORT = 26363                   # Vmess端口，留空或0则自动生成
-DOMAIN = "streamlit.jianxian.nyc.mn"                   # 域名，留空则自动获取
-CF_TOKEN = "eyJhIjoiZTNlYmU5NDY1NjJjOGZjMjBmYzg4Y2U5MGJlODRjYTMiLCJ0IjoiZWNlNzk3N2EtOWIzZS00ZjE1LWJhZTItODVhMGIyNGU3YTY3IiwicyI6Ik5tRTFOelJoT1dVdE5UUmtaQzAwT1RsbExXSmhOR0V0TldVeVlUUTNNR1ptWkRFMSJ9"                 # Cloudflare Token，留空则用Quick Tunnel
+UUID = "8bdaf0cb-6709-45a6-ad11-f6be22a4309f"                     # UUID，留空则自动生成
+PORT = 26389                   # Vmess端口，留空或0则自动生成
+DOMAIN = "googlefree.jianxian.nyc.mn"                   # 域名，留空则自动获取
+CF_TOKEN = "eyJhIjoiZTNlYmU5NDY1NjJjOGZjMjBmYzg4Y2U5MGJlODRjYTMiLCJ0IjoiYjI5NmJkODgtNTA2ZS00NzE5LThkZjgtOTQxZTZkNDVmY2Q3IiwicyI6IllUUmpNR0ZtWlRNdFpHUXdOaTAwTXpNd0xXRXhPRGd0WmpjM01XSTJOVFZrWW1JMyJ9"                 # Cloudflare Token，留空则用Quick Tunnel
 # =========================================
 
 # 添加命令行参数解析
